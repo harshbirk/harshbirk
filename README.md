@@ -5,9 +5,11 @@ I'm Harshbir and I'm an aspiring data professional currently located in Canada.
 ### 📊 Technical Expertise:
 - **SQL**: Proficient in SQL for extracting, manipulating, and managing large datasets.
 - **Python**: Skilled in Python and various libraries, such as pandas and scikit-learn, for data manipulation, analysis, transformation, and visualization. Experienced in machine learning and regression tasks for predictive modeling and pattern recognition.
+- **R**: R: Well-versed in R for in-depth statistical analysis, data manipulation, and visualization to derive meaningful insights from diverse datasets.
 - **Excel & VBA**: Proficient in advanced Excel functions and Visual Basic for Applications (VBA) to automate tasks, enhance efficiency, and reduce errors.
 - **Visualization tools**: Well-versed in data visualization toold such as **Tablueau** and **Power BI**,creating interactive data visualizations and dashboards.
 - **Geospatial Anaysis**: Proficient in Geographic Information Systems (**GIS**) for uncovering geographical insights within datasets.
+
 
   
 ### 🎓 Education:
